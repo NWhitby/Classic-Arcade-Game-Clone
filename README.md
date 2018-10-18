@@ -11,3 +11,5 @@ Good luck!
 ## Installation
 
 No installation necessary. To play the game, open ```index.html``` in your web browser.
+
+[Click to View](https://nwhitby.github.io/Classic-Arcade-Game-Clone/)
